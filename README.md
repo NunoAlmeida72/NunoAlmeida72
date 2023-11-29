@@ -66,7 +66,21 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,css,express,html,java,js,mongodb,sql,nodejs,postman,py,angular" />
+     <img src="https://skillicons.dev/icons?i=c,css,express,html,java,js,mongodb,sqldeveloper,nodejs,py,angular" />
+ 
+  </a>
+</p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Software Experience & Hard Skills</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=git,jira,postman,github,bitbucket,vscode,idea,codeblocks" />
  
   </a>
 </p>
