@@ -66,7 +66,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,css,express,html,java,js,mongodb,mysql,nodejs,postman,py,angular" />
+     <img src="https://skillicons.dev/icons?i=c,css,express,html,java,js,mongodb,sql,nodejs,postman,py,angular" />
  
   </a>
 </p>
