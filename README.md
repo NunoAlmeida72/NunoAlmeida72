@@ -91,4 +91,4 @@
 <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+<br>Credit: [1010nishant](https://github.com/1010nishant)
