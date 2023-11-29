@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @NunoAlmeida72
 - 👀 I’m interested in software development
 
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 <!---
 NunoAlmeida72/NunoAlmeida72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
