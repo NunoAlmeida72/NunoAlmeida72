@@ -71,18 +71,6 @@
   </a>
 </p>
 
-<div id="user-content-tod">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Experience & Hard Skills</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,jira,trello,bitbucket,github,codeblocks,postman,prolog/>
-  </a>
-</p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
