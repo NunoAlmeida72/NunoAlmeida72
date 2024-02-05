@@ -11,7 +11,9 @@
 
 
 <!--Intro start-->
+<ul align="center">
 - ​💻​ I've keen interest in software development.
+</ul>
 <!--Intro end-->
 
 
