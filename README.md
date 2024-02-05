@@ -12,14 +12,12 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/NunoAlmeida72/NunoAlmeida72/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 
 <!--Intro start-->
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
 - ​💻​ I've keen interest in software development.
 <!--Intro end-->
 
