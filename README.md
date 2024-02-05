@@ -10,13 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/NunoAlmeida72/NunoAlmeida72/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--Intro start-->
 - ​💻​ I've keen interest in software development.
 <!--Intro end-->
@@ -90,10 +83,4 @@
 </p>
 
 ----------------------------------------------------------------------
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>Credits: [1010nishant](https://github.com/1010nishant)</summary>
-  </ul>
-</div>
 
